@@ -1,0 +1,7 @@
+body {
+  background: #f8fafc;
+  font-family: system-ui, Helvetica, Arial, sans-serif;
+  color: #262626;
+  margin: 0;
+  min-height: 100vh;
+}
